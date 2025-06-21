@@ -1,5 +1,4 @@
-# 🚗🤖 Smart RC Car with Dual Control Modes | سيارت ذكية بنظام تحكم مزدوج
-
+# 🚗🤖 Smart RC Car with Dual Control Modes
 **A multi-modal robotic platform** combining gesture control, autonomous navigation, and pick-and-place functionality.
 
 <div align="center">
